@@ -12,7 +12,7 @@ desde [ExchangeRate-API](https://www.exchangerate-api.com/).
 - Java 11 o superior
 - Clave de API de [ExchangeRate-API](https://www.exchangerate-api.com/)
 
-### 🔧 Configuración
+### Configuración
 
 1. Clona o descarga este repositorio.
 2. Reemplaza `"YOUR_API_KEY"` en `CurrencyConverterLogic.java` con tu propia clave de API:
